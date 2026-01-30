@@ -4,7 +4,7 @@ Este proyecto es una plataforma web profesional que integra trayectoria laboral 
 
 ## 🔗 Vista Previa
 Puedes ver el proyecto en vivo aquí:  
-👉 **[Proyecto Final - Intro al Desarrollo Web](https://diegogq97.github.io)**
+👉 https://diegogq97.github.io/proyecto_final_intro_al_desarrollo_web/
 
 ## 🚀 Resumen del Proyecto
 Se desarrolló un sitio web para un **Tecnólogo Médico ORL**, enfocado en la experiencia de usuario y el diseño responsivo. Se utilizaron componentes dinámicos de [Bootstrap 5](https://getbootstrap.com) como carruseles de imágenes y menús colapsables para una navegación fluida.
