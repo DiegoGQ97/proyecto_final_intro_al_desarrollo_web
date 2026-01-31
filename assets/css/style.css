@@ -73,9 +73,21 @@ img {
   overflow: hidden;
 }
 
-.slide-contain img {
-  object-fit: contain;
-}
+#carouselExample img {
+    height: 350px;
+    width: 100%;
+    object-fit: contain;
+    border-radius: 10px;
+    }
+
+#carouselExample2 img {
+    height: 350px;
+    width: 100%;
+    object-fit: contain;
+    padding: 15px;
+    background-color: white;
+    border-radius: 10px;
+    }
 
 @media (max-width: 991px) {
   .slide img {
